@@ -187,7 +187,7 @@ define( 'PCLZIP_CB_POST_DELETE', 78008 );
 //   extract() : Extract the content of the archive
 //   properties() : List the properties of the archive
 // --------------------------------------------------------------------------------
-class PclZip
+class TePclZip
 {
     // ----- Filename of the zip file
     public $zipname = '';
